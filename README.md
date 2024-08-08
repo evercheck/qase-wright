@@ -45,7 +45,7 @@ git add .
 ```
 
 ```bash
-git commit -m "your commit message"
+git commit -m "your commit message"GIT 
 ```
 
 ### 6. Pushing changes
